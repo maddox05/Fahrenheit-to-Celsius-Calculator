@@ -21,8 +21,10 @@ Follow these steps to set up and run the project on your local machine:
 4. Create a Python virtual environment (optional but recommended): python -m venv venv
 5. Activate the virtual environment:
 
-On Windows:venv\Scripts\activate
+On Windows: venv\Scripts\activate
+
 On macOS and Linux:source venv/bin/activate
+
 6. Save the provided code in a Python file, e.g., temperature_converter.py.
 7. Install the required library tkinter. It is usually included with Python, so you don't need to install it separately.
 8. Run the application: python temperature_converter.py
